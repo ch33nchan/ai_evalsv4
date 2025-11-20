@@ -1,0 +1,11 @@
+# Ignore Kaggle API keys
+#kaggle.json
+
+# Ignore data folders (don't push 30GB of images to git!)
+argus_data/
+
+# Ignore Python cache and logs
+__pycache__/
+*.pyc
+argus_logs/
+argus_tensorboard/
