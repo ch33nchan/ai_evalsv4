@@ -10,7 +10,7 @@ from PIL import Image
 
 # --- Configuration ---
 # Define where your data lives (based on the structure we discussed)
-DATA_ROOT = os.path.expanduser("~/argus_data")
+DATA_ROOT = os.path.expanduser("/argus_data")
 DEVICE_ENV = torch.device("cuda:0")  # GPU for DINOv2 & Patches
 
 class ArgusEnv(gym.Env):

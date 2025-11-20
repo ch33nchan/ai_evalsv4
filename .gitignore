@@ -9,3 +9,5 @@ __pycache__/
 *.pyc
 argus_logs/
 argus_tensorboard/
+argus_final_model.zip
+argus_venv/
