@@ -1,5 +1,5 @@
 torch 
-torchvision
+torchvision 
 torchaudio --index-url https://download.pytorch.org/whl/cu121
 gymnasium
 stable-baselines3[extra]
@@ -9,3 +9,4 @@ pillow
 gradio
 tqdm
 requests
+timm>=1.0.20
