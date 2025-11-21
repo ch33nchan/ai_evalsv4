@@ -1,5 +1,5 @@
 # Ignore Kaggle API keys
-#kaggle.json
+kaggle.json
 
 # Ignore data folders (don't push 30GB of images to git!)
 argus_data/
